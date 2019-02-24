@@ -6,6 +6,7 @@ end
 def batch_badge_creator(array)
   for elem in array do
     badge_maker(elem)
+  end
 end
 
 def assign_rooms(array)
