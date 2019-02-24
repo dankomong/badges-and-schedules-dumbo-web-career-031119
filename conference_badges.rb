@@ -5,7 +5,7 @@ end
 
 def batch_badge_creator(array)
   for elem in array do
-    badge_maker(elem)
+    "Hello, my name is #{elem}"
   end
 end
 
