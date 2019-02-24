@@ -22,6 +22,17 @@ def assign_rooms(array)
   new_array
 end
 
+# def assign_rooms(array)
+#   new_array = []
+#   counter = 1
+#   for elem in array do
+#     phrase = "Hello, #{elem}! You'll be assigned to room #{counter}!"
+#     new_array.push(phrase)
+#     counter += 1
+#   end
+#   new_array
+# end
+
 def printer
   
 end
