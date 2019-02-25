@@ -32,5 +32,7 @@ end
 # end
 
 def printer(array)
-  
+  for p1 in badge_badge_creator(array)
+    
+  end
 end
