@@ -35,5 +35,7 @@ def printer(array)
   for p1 in badge_badge_creator(array)
     puts p1
   end
-  
+  for p2 in assign_rooms(array)
+    puts p2
+  end
 end
